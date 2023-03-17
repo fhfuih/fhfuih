@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm currently pursuing my Ph.D. in Computer Science at [HKUST](https://hkust.edu.hk/), and I am studying Human-Computer Interaction.
 
